@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>style css</title>
+</head>
 <style>
 {
   box-sizing: border-box;
@@ -40,10 +41,18 @@ body {
     width: 100%;
   }
 }
+
+.footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+</style>
+
+<html>
 <head>
 <title> Praktikum Web 1 Teknik informatika 2023511001 </title>
 </head>
-<link rel="stylesheet" href="style.css">
 <body>
 <div class="header">
 <h1> Data Mahasiswa Teknik Informatika </h1>
@@ -91,10 +100,3 @@ body {
 </div>
  </body>
    </html>
-
-.footer {
-  background-color: #F1F1F1;
-  text-align: center;
-  padding: 20px;
-}
-</style>
