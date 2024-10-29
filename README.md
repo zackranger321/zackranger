@@ -27,7 +27,7 @@ body {
 }
 
 .column.middle {
-  width: 60%;
+  width: 50%;
 }
 
 .row::after {
