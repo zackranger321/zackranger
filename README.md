@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title> praktikum web 1</title>
@@ -43,6 +42,4 @@
 <div class="column right">
 <img src="ikon teknik.jpg" height="150"
 </div>
-</frameset>
- </body>
 </html>
