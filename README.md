@@ -46,5 +46,5 @@
 <div class="column right">
 <img src="ikon teknik.jpg" height="150">
 </div>
-</frameset>	
-</html>
+ </frameset>	
+   </html>
