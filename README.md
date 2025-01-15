@@ -8,7 +8,7 @@
 <frameset border="4" cols="20%, *">
 		<ul>
 		     <li><a href="praktikum teknik.html" target="dinamis">Beranda</a></li> <br> <br>
-		     <li><a href="Kontak.html" target="dinamis">Kontak</a></li> <br> <br>
+		     <li><a href="kontak.html" target="dinamis">Kontak</a></li> <br> <br>
 		</ul>
 </frameset>	
 <link rel="stylesheet" href="style.css">
