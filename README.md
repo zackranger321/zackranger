@@ -8,4 +8,5 @@
 							<frame src="praktikum teknik.html" name="dinamis"/>
 			</frameset>
 	</frameset>
+	
 </html>
