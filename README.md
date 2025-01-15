@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title> praktikum web 1</title>
