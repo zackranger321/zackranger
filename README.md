@@ -1,15 +1,19 @@
 <html>
 <head>
 <title> praktikum web 1</title>
- <frameset rows="20%, *">
+	
+<frameset rows="20%,*">
    <h1 align="center"> SELAMAT DATANG MAHASISWA TEKNIK INFORMATIKA </h1>
- </frameset>
-<frameset border="4" cols="20%, *">
+</frameset>
+ 
+<frameset cols="20%,*">
 		<ul>
 		     <li><a href="praktikum teknik.html" target="dinamis">Beranda</a></li> <br> <br>
 		     <li><a href="kontak.html" target="dinamis">Kontak</a></li> <br> <br>
 		</ul>
-</frameset>	
+</frameset>
+	
+<frameset cols="20%,*">	
 <link rel="stylesheet" href="style.css">
 <div class="header">
 <h1> Data Mahasiswa Teknik Informatika </h1>
@@ -40,6 +44,7 @@
 </table>
 </div>
 <div class="column right">
-<img src="ikon teknik.jpg" height="150"
+<img src="ikon teknik.jpg" height="150">
 </div>
+</frameset>	
 </html>
