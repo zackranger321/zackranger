@@ -3,9 +3,7 @@
 <head>
 <title> praktikum web 1</title>
  <frameset rows="20%, *">
-  <body>
    <h1 align="center"> SELAMAT DATANG MAHASISWA TEKNIK INFORMATIKA </h1>
-    </body>
  </frameset>
   <frameset border="4" cols="20%, *">
    <body> 
@@ -16,8 +14,7 @@
 				<li><a href="Kontak.html" target="dinamis">Kontak</a></li> <br> <br>
 			</ul>
 		</div>
-</body>
-</frameset>
+
 <body>
 <link rel="stylesheet" href="style.css">
 <body>
@@ -53,5 +50,4 @@
 <img src="ikon teknik.jpg" height="150"
 </div>
  </body>
-</frameset>
 </html>
