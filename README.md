@@ -29,14 +29,12 @@
 	</tr>
 		</table>
         </div>
-
-<div class="footer">
+       <div class="footer">
 	<p>Selamat Datang</p>
-</div>
-     
- <frame>
+       </div>
+	</body>
+<frame>
 <link rel="stylesheet" href="style.css">
-<body>
 <div class="header">
 <h1> Data Mahasiswa Teknik Informatika </h1>
 </div>
@@ -66,7 +64,7 @@
 </table>
 </div>
 <div class="column right">
-<img src="ikon teknik.jpg" height="150"
+<img src="ikon teknik.jpg" height="100"
 </div>
  </frameset>
   </frameset>
