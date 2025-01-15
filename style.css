@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>style css</title>
+<style>
+{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.column.left {
+  width: 25%;
+}
+
+.column.right {
+  width: 20%
+}
+
+.column.middle {
+  width: 60%;
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.footer {
+  position: middle;
+  text-align: center;
+  padding: 10px;
+}
+</style>
+</head>
