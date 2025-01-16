@@ -2,9 +2,9 @@
 <head></head>
 <link rel="stylesheet" href="style.css">
 <body>
-		<header>
-		<h1> Data Mahasiswa Teknik Informatika</h1>
-	</header>
+<header>
+<h1> Data Mahasiswa Teknik Informatika</h1>
+</header>
 
 <div class="navigasi">
 		<div class="menu">
@@ -16,12 +16,12 @@
 		</div>
 
 <table border="1" cellspacing="0" cellpadding="7" align="center">
-			<tr>
-				<td>NO</td>
-				<td>NAMA MAHASISWA</td>
-				<td>NPM</td>
-				<td>ALAMAT</td>
    <tr>
+   <td>NO</td>
+   <td>NAMA MAHASISWA</td>
+   <td>NPM</td>
+   <td>ALAMAT</td>
+   </tr>
 
    <tr>
    <td>1</td>
@@ -31,34 +31,33 @@
    </tr>
 
    <tr>
-            	<td>2</td>
-            	<td>MUHAMMAD ZAKI NUR WAHID </td>
-            	<td>2023511001</td>
-            	<td>POLEWALI</td>
-            </tr>
+   <td>2</td>
+   <td>MUHAMMAD ZAKI NUR WAHID </td>
+   <td>2023511001</td>
+   <td>POLEWALI</td>
+  </tr>
 
    <tr>
-            	<td>3</td>
-            	<td>GIAN PRABOWO</td>
-            	<td>2023511008</td>
-            	<td>MANDING</td>
-            </tr>
+   <td>3</td>
+   <td>GIAN PRABOWO</td>
+   <td>2023511008</td>
+   <td>MANDING</td>
+   </tr>
 
    <tr>
-            	<td>5</td>
-            	<td>MANSUR</td>
-            	<td>2023511007</td>
-            	<td>TUMPILING</td>
-            </tr>
+   <td>5</td>
+   <td>MANSUR</td>
+   <td>2023511007</td>
+   <td>TUMPILING</td>
+   </tr>
+    </table>
 
-</table>
-
-  <h3><p align="center">Data yang di atas adalah data</p></h3> 
-   <h3><p align="center">Mahasiswa Teknik informatika Universitas</p></h3>
-  <h3><p align="center">Al-Asyariah Mandar sebanyak 4 orang </p></h3> 
+<h3><p align="center">Data yang di atas adalah data</p></h3> 
+<h3><p align="center">Mahasiswa Teknik informatika Universitas</p></h3>
+<h3><p align="center">Al-Asyariah Mandar sebanyak 4 orang </p></h3> 
         
 <div class="footer">
-	<h1>SELAMAT DATANG</h1>
-</div>
+ <h1>SELAMAT DATANG</h1>
+  </div>
 </body>
 </html>
