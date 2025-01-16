@@ -44,7 +44,6 @@
 <img src="ikon teknik.jpg" height="100">
 </div>
  </div>
-
 <div class="footer">
    <h2> WELCOME </h2>
 </div>
