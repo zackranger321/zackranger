@@ -1,5 +1,6 @@
-
-
+<html>
+<head></head>
+<link rel="stylesheet" href="style.css">
 <body>
 		<header>
 		<h1> Data Mahasiswa Teknik Informatika</h1>
