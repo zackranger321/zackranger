@@ -1,51 +1,63 @@
-<html>
-<head>
-<title> Praktikum Web 1 Teknik informatika 2023511001 </title>
-</head>
-<link rel="stylesheet" href="style.css">
-<body>
-<div class="header">
-<h1> Data Mahasiswa Teknik Informatika </h1>
-</div>
 
- <div class="row">
-<div class="column left">
-<ul> <h2 text-align="center"> 
-<li><a href="menu.html">Menu utama</a></li>
-<li><a href="kontak.html">kontak</a></li>
-<li><a href="aboutus.html">about us</a></li>
-</h2> </ul>
-</div>
-<div class="column middle">
-<table border="1" align="center" cellpadding="3" cellspacing="3">
-         <tr>
-             <th>Nama</th>
-             <th>Npm</th>
-             <th>Prodi</th>
-         </tr>
-         <tr>
-            <td>Muhammad Zaki Nur Wahid</td>
-            <td>2023511001</td>
-            <td>Teknik Informatika</td>
-         </tr>
-         <tr>
-            <td>Ardian Shaleh</td>
-            <td>2023511002</td>
-            <td>Teknik Informatika</td>
-         </tr>
-         <tr>
-            <td>Fikar</td>
-            <td>2023511003</td>
-            <td>Teknik Informatika</td>
-         </tr>
+
+<body>
+		<header>
+		<h1> Data Mahasiswa Teknik Informatika</h1>
+	</header>
+
+<div class="navigasi">
+		<div class="menu">
+			<ul>
+				<li><a href="menu.html">Menu</a></li>
+				<li><a href="Beranda.html">Beranda</a></li>
+				<li><a href="kontak.html">Kontak</a></li>
+			</ul>
+		</div>
+
+<table border="1" cellspacing="0" cellpadding="7" align="center">
+			<tr>
+				<td>NO</td>
+				<td>NAMA MAHASISWA</td>
+				<td>NPM</td>
+				<td>ALAMAT</td>
+   <tr>
+
+   <tr>
+   <td>1</td>
+   <td>ADRIAN SALEH</td>
+   <td>2023511002</td>
+   <td>LUYO</td>
+   </tr>
+
+   <tr>
+            	<td>2</td>
+            	<td>MUHAMMAD ZAKI NUR WAHID </td>
+            	<td>2023511001</td>
+            	<td>LANTORA</td>
+            </tr>
+
+   <tr>
+            	<td>3</td>
+            	<td>GIAN PRABOWO</td>
+            	<td>2023511008</td>
+            	<td>MANDING</td>
+            </tr>
+
+   <tr>
+            	<td>5</td>
+            	<td>MANSUR</td>
+            	<td>2023511007</td>
+            	<td>TUMPILING</td>
+            </tr>
+
 </table>
-</div>
-<div class="column right">
-<img src="ikon teknik.jpg" height="150">
-</div>
- </div>
+
+  <h3><p align="center">Data yang di atas adalah data</p></h3> 
+   <h3><p align="center">Mahasiswa Teknik informatika Universitas</p></h3>
+  <h3><p align="center">Al-Asyariah Mandar sebanyak 4 orang </p></h3> 
+        
 <div class="footer">
-   <h2> WELCOME </h2>
+	<h1>SELAMAT DATANG</h1>
 </div>
- </body>
-   </html>
+</body>
+</html>
