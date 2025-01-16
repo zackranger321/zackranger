@@ -26,14 +26,14 @@
    <td>1</td>
    <td>ADRIAN SALEH</td>
    <td>2023511002</td>
-   <td>LUYO</td>
+   <td>POLEWALI</td>
    </tr>
 
    <tr>
             	<td>2</td>
             	<td>MUHAMMAD ZAKI NUR WAHID </td>
             	<td>2023511001</td>
-            	<td>LANTORA</td>
+            	<td>POLEWALI</td>
             </tr>
 
    <tr>
