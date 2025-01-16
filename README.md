@@ -6,7 +6,7 @@
 	<title>Praktikum WEB 1</title>
 	<style type="text/css">
 		body{
-		background-color: aqua;
+		background-color: white;
 	background-image: url(poto/10.jpg);
 	background-repeat: no-repeat;
 	background-position: right;
