@@ -14,8 +14,7 @@
 	background-size: 320px;
 }
 header {
-
-	background-color: white;
+        background-color: white;
 	text-align: center;
 	width: 100;
 	height: 30;
@@ -49,9 +48,9 @@ header {
 table {
 	border-color: white;
 }
-
-	</style>
-</head>
+</style>
+ </head>
+ 
 <body>
 		<header>
 		<h1> Data Mahasiswa Teknik Informatika</h1>
