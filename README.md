@@ -17,7 +17,7 @@
 </h2> </ul>
 </div>
 <div class="column middle">
-<table border="1" align="center" cellpadding="4" cellspacing="4">
+<table border="1" align="center" cellpadding="3" cellspacing="3">
          <tr>
              <th>Nama</th>
              <th>Npm</th>
