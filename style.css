@@ -21,11 +21,11 @@ body {
   padding: 10px;
 }
 
-.column.left, .column.right {
+.column.left {
   width: 20%;
   background-color: #ffffff;
 }
-column.right {
+.column.right {
   width: 20%;
   
 }
