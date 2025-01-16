@@ -21,7 +21,11 @@ body {
   padding: 10px;
 }
 
-.column.left, .column.right {
+.column.left {
+  width: 25%;
+}
+
+.column.right {
   width: 25%;
 }
 
