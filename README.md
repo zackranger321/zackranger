@@ -11,7 +11,44 @@
 	background-position: right;
 	height: 670px;
 	background-size: 320px;
-<link rel="stylesheet" href="style.css">
+}
+header {
+       background-color: white;
+	text-align: center;
+	width: 100;
+	height: 30;
+}
+.menu {
+	height: 75%;
+	width: 150px;
+	position: absolute;
+	background: white;
+	transition: 0.5s ease;
+	transform: translateY(0);
+}
+.menu ul li a{
+	text-decoration: none;
+	color: red;
+	font-family: Arial Black;
+	color: black;
+}
+.footer {
+	position: 100px;
+	bottom: 0;
+	text-align: center;
+	background-color: white;
+	width: 100%;
+	height: 30px;
+	color: black;
+	padding: 3px;
+	margin: 50px auto 0px;
+}
+table {
+	border-color: white;
+}
+	</style>
+</head>
+
 <body>
 <header>
 <h1> Data Mahasiswa Teknik Informatika</h1>
