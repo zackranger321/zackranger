@@ -1,6 +1,7 @@
+ <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
+	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Praktikum WEB 1</title>
 	<style type="text/css">
@@ -13,7 +14,8 @@
 	background-size: 320px;
 }
 header {
-       background-color: white;
+
+	background-color: white;
 	text-align: center;
 	width: 100;
 	height: 30;
@@ -43,16 +45,17 @@ header {
 	padding: 3px;
 	margin: 50px auto 0px;
 }
+
 table {
 	border-color: white;
 }
+
 	</style>
 </head>
-
 <body>
-<header>
-<h1> Data Mahasiswa Teknik Informatika</h1>
-</header>
+		<header>
+		<h1> Data Mahasiswa Teknik Informatika</h1>
+	</header>
 
 <div class="navigasi">
 		<div class="menu">
@@ -64,48 +67,57 @@ table {
 		</div>
 
 <table border="1" cellspacing="0" cellpadding="7" align="center">
-   <tr>
-   <td>NO</td>
-   <td>NAMA MAHASISWA</td>
-   <td>NPM</td>
-   <td>ALAMAT</td>
-   </tr>
+			<tr>
+				<td>NO</td>
+				<td>NAMA MAHASISWA</td>
+				<td>NPM</td>
+				<td>ALAMAT</td>
+            <tr>
 
-   <tr>
-   <td>1</td>
-   <td>ADRIAN SALEH</td>
-   <td>2023511002</td>
-   <td>POLEWALI</td>
-   </tr>
+<tr>
+            	<td>1</td>
+            	<td>RAHMAT FAJAR</td>
+            	<td>2023511030</td>
+            	<td>LUYO</td>
+            </tr>
 
-   <tr>
-   <td>2</td>
-   <td>MUHAMMAD ZAKI NUR WAHID </td>
-   <td>2023511001</td>
-   <td>POLEWALI</td>
-  </tr>
+<tr>
+            	<td>2</td>
+            	<td>DZULFIKAR</td>
+            	<td>2023511003</td>
+            	<td>LANTORA</td>
+            </tr>
 
-   <tr>
-   <td>3</td>
-   <td>GIAN PRABOWO</td>
-   <td>2023511008</td>
-   <td>MANDING</td>
-   </tr>
+<tr>
+            	<td>3</td>
+            	<td>GIAN PRABOWO</td>
+            	<td>2023511008</td>
+            	<td>MANDING</td>
+            </tr>
 
-   <tr>
-   <td>5</td>
-   <td>MANSUR</td>
-   <td>2023511007</td>
-   <td>TUMPILING</td>
-   </tr>
-    </table>
+<tr>
+            	<td>4</td>
+            	<td>RISKAL HIDAYAT</td>
+            	<td>2023511023</td>
+            	<td>MANDING</td>
+            </tr>
 
-<h3><p align="center">Data yang di atas adalah data</p></h3> 
-<h3><p align="center">Mahasiswa Teknik informatika Universitas</p></h3>
-<h3><p align="center">Al-Asyariah Mandar sebanyak 4 orang </p></h3> 
+<tr>
+            	<td>5</td>
+            	<td>MANSUR</td>
+            	<td>2023511007</td>
+            	<td>TUMPILING</td>
+            </tr>
+</table>
+
+ <h3><p align="center">Data yang di atas adalah data</p></h3> 
+ <h3><p align="center">Mahasiswa Teknik informatika Universitas</p></h3>
+ <h3><p align="center">Al-Asyariah Mandar sebanyak 5 orang </p></h3> 
         
+
+
 <div class="footer">
- <h1>SELAMAT DATANG</h1>
-  </div>
+	<p>Copy Right @dzulfikar003,Halaman Web Saya</p>
+</div>
 </body>
 </html>
