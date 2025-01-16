@@ -1,5 +1,16 @@
 <html>
-<head></head>
+<head>
+<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Praktikum WEB 1</title>
+	<style type="text/css">
+		body{
+		background-color: aqua;
+	background-image: url(poto/10.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	height: 670px;
+	background-size: 320px;
 <link rel="stylesheet" href="style.css">
 <body>
 <header>
