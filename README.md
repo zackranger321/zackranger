@@ -1,24 +1,21 @@
-<html>
+html>
 <head>
-<title> praktikum web 1</title>
-	
-<frameset rows="20%,*">
-   <h1 align="center"> SELAMAT DATANG MAHASISWA TEKNIK INFORMATIKA </h1>
-</frameset>
- 
-<frameset cols="20%,*">
-		<ul>
-		     <li><a href="praktikum teknik.html" target="dinamis">Beranda</a></li> <br> <br>
-		     <li><a href="kontak.html" target="dinamis">Kontak</a></li> <br> <br>
-		</ul>
-</frameset>
-	
-<frameset cols="20%,*">	
+<title> Praktikum Web 1 Teknik informatika 2023511001 </title>
+</head>
 <link rel="stylesheet" href="style.css">
+<body>
 <div class="header">
 <h1> Data Mahasiswa Teknik Informatika </h1>
 </div>
-<div class="row">
+
+ <div class="row">
+<div class="column left">
+<ul> <h2 text-align="center"> 
+<li><a href="menu.html">Menu utama</a></li>
+<li><a href="kontak.html">kontak</a></li>
+<li><a href="aboutus.html">about us</a></li>
+</h2> </ul>
+</div>
 <div class="column middle">
 <table border="1" align="center" cellpadding="4" cellspacing="4">
          <tr>
@@ -44,5 +41,12 @@
 </table>
 </div>
 <div class="column right">
-<img src="ikon teknik.jpg" height="100">
+<img src="ikon teknik.jpg" height="150">
 </div>
+ </div>
+
+<div class="footer">
+   <h2> WELCOME </h2>
+</div>
+ </body>
+   </html>
