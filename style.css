@@ -23,14 +23,14 @@ body {
 
 .column.left {
   width: 20%;
-  background-color: #ffffff;
+  background-color: brown;
 }
 .column.right {
   width: 20%;
   
 }
 .column.middle {
-  width: 30%;
+  width: 60%;
 }
 
 .row::after {
