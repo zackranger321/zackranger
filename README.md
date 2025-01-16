@@ -41,7 +41,7 @@
 </table>
 </div>
 <div class="column right">
-<img src="ikon teknik.jpg" height="100">
+<img src="ikon teknik.jpg" height="150">
 </div>
  </div>
 <div class="footer">
