@@ -1,4 +1,4 @@
-html>
+<html>
 <head>
 <title> Praktikum Web 1 Teknik informatika 2023511001 </title>
 </head>
