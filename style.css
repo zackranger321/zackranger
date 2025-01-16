@@ -25,7 +25,10 @@ body {
   width: 20%;
   background-color: #ffffff;
 }
-
+column.right {
+  width: 20%;
+  
+}
 .column.middle {
   width: 30%;
 }
