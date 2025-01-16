@@ -1,4 +1,4 @@
-<html>
+html>
 <head>
 <title>style css</title>
 <style>
@@ -21,12 +21,8 @@ body {
   padding: 10px;
 }
 
-.column.left {
+.column.left, .column.right {
   width: 25%;
-}
-
-.column.right {
-  width: 20%
 }
 
 .column.middle {
@@ -39,11 +35,16 @@ body {
   clear: both;
 }
 
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
 
 .footer {
-  position: middle;
+  background-color: #F1F1F1;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
 }
 </style>
 </head>
